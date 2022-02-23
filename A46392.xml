@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Just vindication of the principal officers of His Majesties ordnance from the false and scandalous aspersions laid upon them in a printed libel entituled An exact relation of the several engagements and actions of His Majesties fleet, under the command of His Highness Prince Rupert, in the summers expedition, 1673.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46392</idno>
+            <idno type="STC">Wing J1244</idno>
+            <idno type="STC">ESTC R36215</idno>
+            <idno type="EEBO-CITATION">15618911</idno>
+            <idno type="OCLC">ocm 15618911</idno>
+            <idno type="VID">104186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104186)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1151:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Just vindication of the principal officers of His Majesties ordnance from the false and scandalous aspersions laid upon them in a printed libel entituled An exact relation of the several engagements and actions of His Majesties fleet, under the command of His Highness Prince Rupert, in the summers expedition, 1673.</title>
+               </titleStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Brooks ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: A. Ker Cl, Commiss. Gen. Ass.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Exact relation of the several engagements and actions of His Majesties fleet.</term>
+               <term>Dutch War, 1672-1678 --  Naval operations.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104186:1" rendition="simple:additions"/>
+            <p>A Juſt Vindication OF THE PRINCIPAL OFFICERS OF HIS MAJESTIES Ordnance From the falſe and ſcandalous Aſperſions laid upon them in a Printed Libel, ENTITULED <hi>An Exact Relation of the ſeveral Engage<g ref="char:EOLhyphen"/>ments and Actions of His Majesties Fleet, under the Command of his Highneſs Prince</hi> Rupert, <hi>in the Summers Expedition,</hi> 1673.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathanael Brooke</hi> (Stationer to His Majeſties Office of the Ordnance) at the <hi>Angel</hi> in <hi>Cornhil,</hi> near the <hi>Royal Exchange,</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104186:2"/>
+            <pb n="3" facs="tcp:104186:2"/>
+            <head>A VINDICATION OF THE Principal Officers OF HIS MAJESTIES Ordnance, <hi>&amp;c.</hi>
+            </head>
+            <p>THe Principal Officers of His Majeſties Ord<g ref="char:EOLhyphen"/>nance, having to the utmoſt of their Power, in both the <hi>Dutch</hi> Wars carried themſelves with all Care and Induſtry in the Execution of their ſeveral Places, in furniſhing His Majeſties Fleets, and
+<pb n="4" facs="tcp:104186:3"/>Men of War with good, ſufficient and ſerviceable Gun<g ref="char:EOLhyphen"/>ners Stores, and fitted them with early Supplies, at all Times when required; for which they have had the thanks of his Royal Highneſs, of his Highneſs Prince <hi>Rupert,</hi> and his Grace the Duke of <hi>Albemarle,</hi> in the firſt War; and of his Royal Highneſs, and his Highneſs Prince <hi>Rupert</hi> in this laſt War: and although they have met with ſeveral Miſtakes of ſome Perſons who have re<g ref="char:EOLhyphen"/>ported the <hi>Dutch</hi> Guns and Powder to have been better and ſtronger than thoſe of His Majeſties, (who yet have acknowledged their Errours, when by Experience ſome of them have ſeen by Proof that His Majeſties Powder is ſtronger, and by ¼ better than the <hi>Dutch</hi>) they looked upon ſuch Reports as the Effects rather of miſinforma<g ref="char:EOLhyphen"/>tion, than of malicious <subst>
+                  <del>ſcandal</del>
+                  <add>ſlander</add>
+               </subst>. But now finding Them<g ref="char:EOLhyphen"/>ſelves and their Actions blaſted and brought upon the Stage in a ſcandalous lying Pamphlet in Print, entitled, <hi>an exact Relation of the ſeveral Engagements, &amp;c. under the Command of Prince</hi> Rupert; and perceiving how that Libel had already influenced ſeveral Perſons to their Prejudice; they have thought fit to manifeſt to All Perſons, Lovers of Honour and of Truth, in De<g ref="char:EOLhyphen"/>fence of themſelves, and of the Right Honourable Sir <hi>Thomas Chicheley</hi> Knight, Maſter General of His Maje<g ref="char:EOLhyphen"/>ſties Ordnance (by whoſe Endeavours, Intereſt, and un<g ref="char:EOLhyphen"/>ſpotted Fidelity, His Majeſties Service in this Office hath ſo well proceeded) That at no time in any of theſe late Wars againſt the <hi>Dutch,</hi> His Majeſties Fleets were better provided with Canon, Powder, Shot, and all Ammunition, and Stores of War, than that ſet out this laſt Spring under his Highneſs Prince <hi>Rupert.</hi> To which may be added the other great Stores of War, <hi>viz.</hi> of
+<pb n="5" facs="tcp:104186:3"/>Granadoes for Morterpieces and Hand, Fire Arms, Pikes, Powder, Shot, Scaling Ladders, Turnpikes, and many other chargeable Stores for Land Service, which by his Highneſs Particular Order, were provided and laden upon ſix great Ships under the Charge of <hi>Jonas Moore</hi> Eſquire, who attended upon the Prince, and was on Board with him in the two firſt Engage<g ref="char:EOLhyphen"/>ments. And at the laſt going out in <hi>July</hi> they provided (beſides the Supply of Gunners Stores for the whole Navy, with all its Tenders) all fitting Stores and Equi<g ref="char:EOLhyphen"/>page for the Land Forces, and Train of Artillery then deſigned; that is to ſay, All manner of Arms, Offen<g ref="char:EOLhyphen"/>ſive and Defenſive, Ammunition of all ſorts, Horſes, Tents for 10000 Men, Habiliments of War of all kinds, and other Utenſils and Inſtruments, as well for Intrenchments as Surprizes, in caſe a Deſcent had been made either upon the Coaſt of <hi>Holland,</hi> or elſewhere. All which to the value of 40000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and upward, have been by them ſent out extraordinarily, and upon the Credit of the Office the laſt Summer, without one Pen<g ref="char:EOLhyphen"/>ny advanced for the ſame.</p>
+            <p>This being in general premiſed; they come now to anſwer more particularly to ſuch unjuſt Accuſations, as this falſe and ſcandalous Libeller hath been pleaſed to lay upon them; which are theſe that follow.</p>
+            <list>
+               <item>The firſt, is in Page the Seventh; wherein he declares (to the Scandal and Infamy of the Stout Brave Seamen and Souldiers of this Nation) <hi>How faint the Hearts of the whole Fleet were</hi> (he meaſured certainly by his own) <hi>for want of Workmen and
+<pb n="6" facs="tcp:104186:4"/>Tools, Seamen, &amp; Supplies,</hi> and this before the Fleet engaged.</item>
+               <item>The Second is in Page the Twelfth, where, after the Second Engagement in <hi>June,</hi> he ſaith, <hi>The Com<g ref="char:EOLhyphen"/>manders exclaimed that they had not ſufficient Supplies, but were in Want of Powder, Shot, &amp;c.</hi>
+               </item>
+               <item>The Third is in the laſt Page of this Libel, where he enumerates the Difficulties and the Wants the Fleet was in. Of which, <hi>The fayler of Proviſi<g ref="char:EOLhyphen"/>ons, and Want of Ammunition, and all other Ne<g ref="char:EOLhyphen"/>ceſſaries</hi> are reckoned as Part.</item>
+            </list>
+            <p>Theſe black and falſe Aſperſions can no way better (in few Lines) be cleared, than firſt by declaring,
+<list>
+                  <item>1. What Ammunition and Stores were provided and ſent on Board the Fleet, from this Office be<g ref="char:EOLhyphen"/>fore it went out.</item>
+                  <item>2. What Supplies were made after the Engage<g ref="char:EOLhyphen"/>ments.</item>
+                  <item>3. And laſtly, what Ammunition, Powder, Shot, <hi>&amp;c.</hi> were remaining on Board the beginning of <hi>September</hi> laſt, when the Fleet returned, and a General Remain was taken by Order of the Office, as may appear by the Books and Gun<g ref="char:EOLhyphen"/>ners Accompts remaining in the ſaid Office.</item>
+               </list>
+            </p>
+            <p>And here they cannot but take Notice and declare
+<pb n="7" facs="tcp:104186:4" rendition="simple:additions"/>that in the firſt <hi>Dutch</hi> War, forty Rounds (that is Pow<g ref="char:EOLhyphen"/>der and Shot to each Gun to be forty Times diſcharged) was as great a Proportion as the Ships could ſtow and take in. Some Ships indeed might take in more by reaſon of their Built, but thoſe were but few.</p>
+            <p>This Rule will beſt be judged of by the Powder, not naming (for Brevities ſake) the reſt of the Stores.</p>
+            <p>Twelve thouſand Barrels of Powder completed the Proportion of 40 Rounds to thoſe 60 Sayl of Ships which were commanded by his Highneſs Prince <hi>Rupert</hi> this laſt Summer (many other of His Majeſties Ships at the ſame time being elſewhere imployed:) which Propor<g ref="char:EOLhyphen"/>tion of 12000 Barrels with Shot and all other Stores anſwerable, the ſaid Ships carried out with them in <hi>May</hi> laſt, and they had beſide ſix Veſſels attending them with much Powder and Shot, ſent after as is before mentio<g ref="char:EOLhyphen"/>ned according to the Princes Order, than which a great<g ref="char:EOLhyphen"/>er Proportion, or better, was never before ſent. So that as to the firſt Accuſation, there was no Reaſon that the Hearts of the whole Fleet ſhould faint (as doubtleſs this Cowardly Libellers did.) And if Succeſs had been anſwerable to their Supplies, this Apology had not needed.</p>
+            <p>At the Return of the Fleet to the <hi>Buoy of the Nore,</hi> which was the Eighth of <hi>June,</hi> the Officers by dire<g ref="char:EOLhyphen"/>ctions of the Maſter of the Ordnance had provided five thouſand Barrels of Powder, with Shot and Ammuni<g ref="char:EOLhyphen"/>tion proportionable, and the Tenth of <hi>June</hi> ſixteen great Veſſels loaden with the ſaid Powder and Stores,
+<pb n="8" facs="tcp:104186:5" rendition="simple:additions"/>were at Anchor near the Fleet under the Charge of Sir <hi>Jonas Moore,</hi> Maſter Surveyor of his Majeſties Ord<g ref="char:EOLhyphen"/>nance, and <hi>Samuel Fortrey</hi> Eſquire, Clerk of the Deli<g ref="char:EOLhyphen"/>veries; where they found thoſe Ships ſent along with Stores for Supply of the Fleet returned into the <hi>Swale,</hi> without having Delivered any Part or Parcel of their Proviſions.</p>
+            <p>The Fleet might have been ſupplied with Gunners Stores in a few Dayes, but many Ships were to be re<g ref="char:EOLhyphen"/>paired, which the Officers and Commiſſioners of His Majeſty's Navy (whom this Libeller hath likewiſe moſt unjuſtly aſperſed) with all poſſible Induſtry and Ex<g ref="char:EOLhyphen"/>pedition refitted within leſs than three Weeks time: So that by the firſt Week in <hi>July,</hi> the Fleet was ſupplied with 4100 Barrels of Powder, Shot, and other Stores anſwerable, making up with what they had remaining on Board the entire Complement of forty Rounds: Upon which the Fleet ſailed, and fourteen Store-Ships belonging to this Office attending thereon.</p>
+            <p>By this it appears how falſe his ſecond Scandal is, for that the Fleet had not ſpent little above One third of their Stores of War, <hi>viz.</hi> 4100, of 12000 Barrels. And none of the Commanders, except this Malicious Libel<g ref="char:EOLhyphen"/>ler, could exclaim for want of Powder and Shot.</p>
+            <p>At the Return of the Fleet in <hi>Auguſt;</hi> after the third and laſt Engagement, the Officers of the Ordnance ſent again another Supply of 5000 Barrels of Powder, and Stores proportionable; but that might have been ſpared, toge<g ref="char:EOLhyphen"/>ther with the great Charge of Freight and Demurrage;
+<pb n="9" facs="tcp:104186:5"/>for the Fleet had ſpent little more than a ſixth Part of their Powder and Stores, <hi>viz.</hi> 2000, of 12000 Barrels, as by the Remains in the Office appears, there being above 9000 Barrels of Powder brought back in the Fleet, beſides the Stores ſent along, which likewiſe re<g ref="char:EOLhyphen"/>turned without any Diminution, clearly ſhewing his laſt Accuſation to be as falſe as any of the reſt; and it is as plain that in all the three Engagements, not much above half the Stores of War of the firſt Supply were ex<g ref="char:EOLhyphen"/>pended.</p>
+            <p>To give one further ſatisfactory Inſtance touching the Expence of Powder, One Ship which was confeſſed by all to have been moſt engaged, will afford a clear De<g ref="char:EOLhyphen"/>monſtration, <hi>viz.</hi> the Royal Prince. Her firſt Comple<g ref="char:EOLhyphen"/>ment was 430 Barrels, the Supply ſhe took in 176 Barrels, in all 606 Barrels. The Gunner brought back and deli<g ref="char:EOLhyphen"/>vered in <hi>September</hi> laſt 395 Barrels, with Stores anſwera<g ref="char:EOLhyphen"/>ble, to this Office, which makes the Expence ſomething above One third. Nay, the <hi>Rupert,</hi> which made moſt complaint, brought back with her two thirds of her Powder and Stores.</p>
+            <q>
+               <hi>Ab <g ref="char:V">Ʋ</g>no, diſce Omnes—</hi>
+            </q>
+            <p>To conclude; by what hath been ſaid, no Perſon can have reaſon to believe this falſe Libeller, but on the con<g ref="char:EOLhyphen"/>trary to acquit the Officers of the Ordnance, as having done their Duties, by timely furniſhing out, and fully re<g ref="char:EOLhyphen"/>ſupplying His Majeſty's Fleet this laſt Summer. And they cannot but with humble Thanks acknowledge the Honour which his Highneſs Prince <hi>Rupert</hi> hath done them, by often declaring as much, both publickly and otherwiſe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
